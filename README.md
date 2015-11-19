@@ -12,3 +12,7 @@ Running ionic app
 docker pull plastic/ionic
 docker run -it -p 8100:8100 -p 35729:35729 -v $(pwd)/app:/ionic-demo plastic/ionic
 ```
+
+### Links
+
+[DockerHub Ionic-Runner](https://hub.docker.com/r/plastic/ionic/)
